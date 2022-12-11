@@ -1,6 +1,5 @@
 ; Program: main.asm
 ; About: Cycle screen color
-;
 
 ;target processor
     processor 6502
